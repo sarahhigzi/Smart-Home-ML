@@ -1,6 +1,9 @@
 # ABSTRACT
 
-Smart Homes. What are they? Why are they beneficial? Moreover, why have they become more prominent? 
+Smart Homes. 
+- ***What are they?***
+- ***Why are they beneficial?***
+- ***Moreover, why have they become more prominent?***
 
 Smart homes have emerged as a critical solution to the challenges of modern-day living, from reducing household bills to limiting environmental impact. When used effectively, smart home devices empower consumers to have greater control over their daily energy usage, leading to significant energy savings and a more sustainable lifestyle. 
 
