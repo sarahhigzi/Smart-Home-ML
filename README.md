@@ -1,2 +1,2 @@
 # Smart-Home-ML
-Using Machine Learning to predict the Total Energy Consumption in Smart Homes based on Historical Data, Weather Conditions and Appliance Usage Patterns 
+USING MACHINE LEARNING TO PREDICT THE TOTAL ENERGY CONSUMPTION IN SMART HOMES BASED ON HISTORICAL DATA, WEATHER CONDITIONS AND APPLIANCE USAGE PATTERNS
